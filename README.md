@@ -20,4 +20,4 @@ This project demonstrates my experience in collecting, storing, and processing d
 ## How to Use  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/stiffstifler/project-name.git  
+   git clone https://github.com/stiffstifler/scraping.git  
